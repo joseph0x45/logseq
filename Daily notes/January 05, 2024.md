@@ -11,3 +11,5 @@ It is now 9PM and I haven't had the time to work on the rate limiting.
 ### What I learned today
 #### Go test behavior
 While running `go test` directly on a test file it only takes that file into context, so even if there is another file in the same package with some exported stuff it won't be able to find it. 
+#### Docker compose and .env files
+You can use environment files in a `docker-compose.yml` f
