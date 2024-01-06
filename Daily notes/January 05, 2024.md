@@ -9,5 +9,5 @@ It is now 9PM and I haven't had the time to work on the rate limiting.
 - Docker and docker compose
 
 ### What I learned today
-#### Go test error
-While running `go test` directly on a test file from 
+#### Go test behavior
+While running `go test` directly on a test file it only takes that file into context, so even if there is another file in the same package with some exported stuff it won't be able to find it. 
