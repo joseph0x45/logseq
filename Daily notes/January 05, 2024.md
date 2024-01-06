@@ -9,5 +9,5 @@ It is now 9PM and I haven't had the time to work on the rate limiting.
 - Docker and docker compose
 
 ### What I learned today
-That weird error I'm getting while running go test from the file
-docker compose can read env vars and take a dockerfile to build a service
+#### Go test error
+While running `go test` directly on a test file from 
