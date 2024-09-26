@@ -1,1 +1,0 @@
-Today we started working on the [[bizapp project]]. I mostly just introduced my friend to [[Golang]] and [[Unit tests]]. I also deployed [[Visio]] using [[NGINX Proxy manager]] 

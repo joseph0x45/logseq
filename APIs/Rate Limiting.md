@@ -1,1 +1,0 @@
-[[APIs | API]] rate limiting is the process of limiting access for people (and bots) to a service based on a set of rules and policies set by the API's operator or owner.
